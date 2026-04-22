@@ -1,2 +1,20 @@
-# Candy_didi-learning-notes
-My learning notes on business, tech, and life
+# Learning Notes
+
+记录我在商业、技术、阅读等领域的学习与思考。
+
+## 📚 目录
+
+- **business/** — 商业洞察、销售复盘、客户沟通
+- **tech/** — 编程、GitHub、工具类学习
+- **books/** — 读书笔记与书摘
+- **reflections/** — 月度与季度复盘
+
+## 🎯 为什么写这个
+
+- 公开输出倒逼结构化思考
+- 未来的自己能快速检索过去的认知
+- 建立可追溯的学习履历
+
+## ✍️ 更新频率
+
+每周至少一次。
